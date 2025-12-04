@@ -13,7 +13,7 @@ Preprocess image datasets using torchvision.transforms
 Predict classes for new images
 (Optional) Real-time webcam-based animal detection
 ## Project Structure
-
+```
 Identifying-Cats-Dogs-Pandas-with-PyTorch/
 │── ws_05.ipynb                   #Main notebook
 │── dataset/
@@ -28,7 +28,7 @@ Identifying-Cats-Dogs-Pandas-with-PyTorch/
 │── utils/
 │      └── transforms.py
 │── README.md
-
+```
 ## Requirements
 Install dependencies:
 ```
