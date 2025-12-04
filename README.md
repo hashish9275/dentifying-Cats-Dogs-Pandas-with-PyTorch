@@ -149,11 +149,14 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ```
+## output:
+<img width="1281" height="667" alt="image" src="https://github.com/user-attachments/assets/4c0c85ea-0032-4e33-8451-3befde9c79b1" />
 
 ### Results
-
+```
 Training Loss and Accuracy Visualization
 Validation accuracy
 Sample predictions for Cats, Dogs & Pandas
 Screenshot examples of real-time webcam detection
 ssification
+```
